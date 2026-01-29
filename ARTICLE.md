@@ -10,4 +10,13 @@ The tension between making code pleasant to use and making it easy to change is 
 ---
 ### Proof-reading
 Article checked for typos
+### Comment Nadja Kaludjerovic
+I found this article very interesting because it challenged one of the 
+most prominent beliefs in computer science. I especially liked that you 
+included concrete examples from the article, such as HTTP error codes, 
+Erlang supervision trees and the requests/urllib3 split, which made the 
+ideas more concrete and easier to understand. I also liked that you 
+shared your personal experience of having to balance writing code that is 
+pleasant to use while still being easy to modify and maintain.
+
 
