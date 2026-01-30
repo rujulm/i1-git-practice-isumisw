@@ -19,4 +19,6 @@ ideas more concrete and easier to understand. I also liked that you
 shared your personal experience of having to balance writing code that is 
 pleasant to use while still being easy to modify and maintain.
 
+### Comment Rujul Malhotra
+The article provides an important take on coding practices. It was interesting to reflect on how we often place too much emphasis on efficiency and tight coupling between logic and functionality, which can make code harder to revisit and change. In an iterative software development process, prioritizing code that’s easier to change or delete seems much more valuable.
 
